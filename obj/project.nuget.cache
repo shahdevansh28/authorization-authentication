@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "t0zTlzPiojHtTwGXrcgtqdhZEbfddmmFGB+2PRDYgAIGPBVc4AjOrZT3kC8hZPAFpbz+8EmFzus6KA2HEXVvxQ==",
+  "dgSpecHash": "3QK2iYqcWEhS8HxSWcBWFNAK6Yxc7OVU5VLdM8vG8I08Y8+obHgN4HoLtyjOPpdQAKU2jxZVZv/AwFpMJY+KwQ==",
   "success": true,
   "projectFilePath": "D:\\Projects\\authentication-autharization\\authentication-autharization\\authentication-autharization.csproj",
   "expectedPackageFiles": [
@@ -67,6 +67,7 @@
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.win32.registry\\4.5.0\\microsoft.win32.registry.4.5.0.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
