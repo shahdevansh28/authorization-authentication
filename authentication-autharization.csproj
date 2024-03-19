@@ -5,11 +5,15 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <RootNamespace>authentication_autharization</RootNamespace>
+<<<<<<< HEAD
 	<InvariantGlobalization>true</InvariantGlobalization>
 	<UserSecretsId>6e948b36-3f6c-4a35-9b84-09967ea91bad</UserSecretsId>
 	<DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
 	<DockerfileContext>.</DockerfileContext>
 	<InvariantGlobalization>true</InvariantGlobalization>
+=======
+    <InvariantGlobalization>true</InvariantGlobalization>
+>>>>>>> dc12eba9d439ad5dfe1660c45f907a847d8d6f33
   </PropertyGroup>
 
   <ItemGroup>
