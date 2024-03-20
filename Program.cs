@@ -17,8 +17,7 @@ builder.Services.AddControllers();
 //For EntityFramWork
 
 builder.Services.AddDbContext<AppDbContext>(
-    option => option.UseNpgsql(builder.Configuration.GetConnectionString("Connstr")
-    ));
+    option => option.UseNpgsql(ConnectionHelper.GetConnectionString(builder.Configuration)));
 
 //For Identity
 builder.Services.AddIdentity<User, IdentityRole>()
