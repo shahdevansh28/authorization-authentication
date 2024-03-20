@@ -1,3 +1,4 @@
+using authentication_autharization.Helper;
 using authentication_autharization.Models;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Identity;
@@ -11,9 +12,11 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers();
 //For EntityFramWork
+
 builder.Services.AddDbContext<AppDbContext>(
-    option => option.UseSqlServer(builder.Configuration.GetConnectionString("Connstr")
+    option => option.UseNpgsql(builder.Configuration.GetConnectionString("Connstr")
     ));
+
 //For Identity
 builder.Services.AddIdentity<User, IdentityRole>()
     .AddEntityFrameworkStores<AppDbContext>()
@@ -45,6 +48,9 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
+
+var scope = app.Services.CreateScope();
+await DataHelper.ManageDataAsync(scope.ServiceProvider);
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())

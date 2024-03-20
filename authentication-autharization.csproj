@@ -5,7 +5,6 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <RootNamespace>authentication_autharization</RootNamespace>
-
 	<InvariantGlobalization>true</InvariantGlobalization>
 	<UserSecretsId>6e948b36-3f6c-4a35-9b84-09967ea91bad</UserSecretsId>
 	<DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
@@ -24,6 +23,7 @@
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
     <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.17.0" />
+    <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="7.0.11" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
   </ItemGroup>
 

@@ -81,3 +81,5 @@ D:\Projects\authentication-autharization\authentication-autharization\obj\Debug\
 D:\Projects\authentication-autharization\authentication-autharization\obj\Debug\net7.0\authentication-autharization.pdb
 D:\Projects\authentication-autharization\authentication-autharization\obj\Debug\net7.0\authentication-autharization.genruntimeconfig.cache
 D:\Projects\authentication-autharization\authentication-autharization\obj\Debug\net7.0\ref\authentication-autharization.dll
+D:\Projects\authentication-autharization\authentication-autharization\bin\Debug\net7.0\Npgsql.dll
+D:\Projects\authentication-autharization\authentication-autharization\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll

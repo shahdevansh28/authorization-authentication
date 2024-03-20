@@ -84,7 +84,7 @@ namespace authentication_autharization.Controllers
         }
 
 
-        [HttpPost]
+        /*[HttpPost]
         [Route("upload-img")]
         public async Task<IActionResult> UploadImage([FromForm]FileModel fileModel)
         {
@@ -109,6 +109,6 @@ namespace authentication_autharization.Controllers
                 return BadRequest(ex.Message);
             }
             return Ok();
-        }
+        }*/
     }
 }

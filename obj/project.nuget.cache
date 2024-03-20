@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "3QK2iYqcWEhS8HxSWcBWFNAK6Yxc7OVU5VLdM8vG8I08Y8+obHgN4HoLtyjOPpdQAKU2jxZVZv/AwFpMJY+KwQ==",
+  "dgSpecHash": "PfCwsde4Pnqu1tN+GEWdHeG9OrNB9TCbOZ4kasKcqoEGc0csGAQilQaLnx7YOqOJTXNbDyemDgyoEnAe0E3W5A==",
   "success": true,
   "projectFilePath": "D:\\Projects\\authentication-autharization\\authentication-autharization\\authentication-autharization.csproj",
   "expectedPackageFiles": [
@@ -71,6 +71,8 @@
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.win32.registry\\4.5.0\\microsoft.win32.registry.4.5.0.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\npgsql\\7.0.6\\npgsql.7.0.6.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\7.0.11\\npgsql.entityframeworkcore.postgresql.7.0.11.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
